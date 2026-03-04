@@ -1,7 +1,7 @@
 # Haselburg Marteloscope Stem Volume Analysis
 
 **Author:** Hassan Akhter
-**Student Number:** 24215861
+**Student Number:** ******
 **Date:** 10/02/2026
 **Course:** Forest Information Technology - Applied Programming
 
