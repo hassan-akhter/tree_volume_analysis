@@ -1,0 +1,15 @@
+#Haselburg Marteloscope Stem Volume Analysis Project
+
+#Install all packages with: pip install -r requirements.txt 
+
+#Core data analysis
+pandas
+numpy
+
+#Visualization
+matplotlib
+seaborn
+
+#Jupyter Notebook (If not already installed)
+jupyter
+notebook
